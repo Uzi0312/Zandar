@@ -65,3 +65,6 @@ Shutil
 Platform
 Subprocess
 Ctypes
+
+
+#Important Note: Zandar is an ongoing project & a lot of work is to be done to make it feature rich and computationally efficient.
